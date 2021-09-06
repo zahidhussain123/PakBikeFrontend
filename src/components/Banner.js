@@ -15,22 +15,22 @@ const banner = () => {
         <div className="row">
           <div className="col-6">
             <ul className="header__ul">
-              <a href="https://www.facebook.com/profile.php?id=100013178644600">
+              <a href=" https://www.facebook.com/profile.php?id=100008183141262">
                 <li className="but">
                   <FaFacebookF />
                 </li>
               </a>
-              <a href="https://twitter.com/shaheenmalik112">
+              <a href="https://twitter.com/">
                 <li className="but">
                   <FaTwitter />
                 </li>
               </a>
-              <a href="https://www.linkedin.com/in/shaheen-malik-7140b4155/">
+              <a href="https://www.linkedin.com/in/zahid-hussain-850a80175">
                 <li className="but">
                   <FaLinkedin />
                 </li>
               </a>
-              <a href="https://www.instagram.com/shanimalick0_07/">
+              <a href="https://www.instagram.com/p/CTNEJUwipr1/?utm_medium=copy_link">
                 <li className="but">
                   <FaInstagram />
                 </li>

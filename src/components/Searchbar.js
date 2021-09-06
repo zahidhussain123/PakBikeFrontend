@@ -202,10 +202,10 @@ import React from 'react'
               <option value="Umerkot">Umerkot</option>
               <option value="Warah">Warah</option>
               <option value="" disabled>
-                Khyber Cities
+                Khyber Pakhtunkhwa Cities
               </option>
               <option value="Abbottabad">Abbottabad</option>
-              <option value="Adezai">Adezai</option>
+              <option value="Adezai">Peshawar</option>
               <option value="Alpuri">Alpuri</option>
               <option value="Akora Khattak">Akora Khattak</option>
               <option value="Ayubia">Ayubia</option>
@@ -228,7 +228,7 @@ import React from 'react'
               <option value="Haripur">Haripur</option>
               <option value="Karak">Karak</option>
               <option value="Kohat">Kohat</option>
-              <option value="Kulachi">Kulachi</option>
+              <option value="Kulachi">Kurram</option>
               <option value="Lakki Marwat">Lakki Marwat</option>
               <option value="Latamber">Latamber</option>
               <option value="Madyan">Madyan</option>

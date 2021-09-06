@@ -234,10 +234,10 @@ const Contactus = () => {
                 <option value="Umerkot">Umerkot</option>
                 <option value="Warah">Warah</option>
                 <option value="" disabled>
-                  Khyber Cities
+                  Khyber Pakhtunkhwa Cities
                 </option>
                 <option value="Abbottabad">Abbottabad</option>
-                <option value="Adezai">Adezai</option>
+                <option value="Adezai">Peshawar</option>
                 <option value="Alpuri">Alpuri</option>
                 <option value="Akora Khattak">Akora Khattak</option>
                 <option value="Ayubia">Ayubia</option>
@@ -260,7 +260,7 @@ const Contactus = () => {
                 <option value="Haripur">Haripur</option>
                 <option value="Karak">Karak</option>
                 <option value="Kohat">Kohat</option>
-                <option value="Kulachi">Kulachi</option>
+                <option value="Kulachi">Kurram</option>
                 <option value="Lakki Marwat">Lakki Marwat</option>
                 <option value="Latamber">Latamber</option>
                 <option value="Madyan">Madyan</option>
@@ -309,22 +309,22 @@ const Contactus = () => {
                 <a href="">Facebook</a>
               </button> */}
           <div className="social">
-            <a href="https://www.facebook.com/profile.php?id=100013178644600">
+            <a href=" https://www.facebook.com/profile.php?id=100008183141262">
               <li className="but">
                 <FaFacebookF />
               </li>
             </a>
-            <a href="https://twitter.com/shaheenmalik112">
+            <a href="https://twitter.com">
               <li className="but">
                 <FaTwitter />
               </li>
             </a>
-            <a href="https://www.linkedin.com/in/shaheen-malik-7140b4155/">
+            <a href="https://www.linkedin.com/in/zahid-hussain-850a80175">
               <li className="but">
                 <FaLinkedin />
               </li>
             </a>
-            <a href="https://www.instagram.com/shanimalick0_07/">
+            <a href="https://www.instagram.com/p/CTNEJUwipr1/?utm_medium=copy_link">
               <li className="but">
                 <FaInstagram />
               </li>
@@ -332,7 +332,7 @@ const Contactus = () => {
           </div>
           <div className="call_us"> Call Us :</div>
           <div className="whatsapp_image">
-            <div className="whats_number">03110422612</div>
+            <div className="whats_number">03029488689</div>
             <img src="/images/whatsapp.png" alt="logo" />
           </div>
         </div>

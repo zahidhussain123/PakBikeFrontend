@@ -63,7 +63,7 @@ class Ad extends React.Component {
         // alert(response.data.message);
       })
       .catch((err) => {
-        alert("OOOOPPSS error");
+        alert("OOPS error");
       });
   };
   

@@ -14,22 +14,22 @@ import {
             <div className="Followus_footer">Follow Us</div>
             <div className="footer_link">
               <div className="footer_link_social">
-                <a href="https://www.facebook.com/profile.php?id=100013178644600">
+                <a href="https://www.facebook.com/profile.php?id=100008183141262">
                   <li className="but">
                     <FaFacebookF />
                   </li>
                 </a>
-                <a href="https://twitter.com/shaheenmalik112">
+                <a href="https://twitter.com">
                   <li className="but">
                     <FaTwitter />
                   </li>
                 </a>
-                <a href="https://www.linkedin.com/in/shaheen-malik-7140b4155/">
+                <a href="https://www.linkedin.com/in/zahid-hussain-850a80175">
                   <li className="but">
                     <FaLinkedin />
                   </li>
                 </a>
-                <a href="https://www.instagram.com/shanimalick0_07/">
+                <a href="https://www.instagram.com/p/CTNEJUwipr1/?utm_medium=copy_link">
                   <li className="but">
                     <FaInstagram />
                   </li>
@@ -62,10 +62,9 @@ import {
             </a>
           </div>
           <div className="forcontact_foot">For Contact</div>
-          <div className="contact_foot">Call Us : 03348952612</div>
-          <div className="contact_foot">Call Us : 03029488689</div>
-          <div className="email_foot">Email : shaheenmalik879@gmail.com</div>
+          <div className="contact_foot">Call Us : 03445655828</div>
           <div className="email_foot">Email : zahid4307@gmail.com</div>
+          <div className="email_foot">Email : shaheenmalik879@gmail.com</div>
           <div className="footer_logo">
             PakBike.com
             {/* <div className="Logo_foot_description">

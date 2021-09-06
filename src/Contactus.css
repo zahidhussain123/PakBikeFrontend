@@ -1,0 +1,180 @@
+
+.about_first_Page{
+ width: 100%;
+  height: 140vh;
+  background-repeat: no-repeat;
+ background: url("/src/contactus.jpg");
+  background-size: cover;
+
+}
+.about_head{
+
+
+    font-size: 18px;
+    align-content: center;
+    padding: 240px 410px;
+    color: rgb(255, 255, 255); 
+ 
+
+}
+.about_head h1 ::after {
+    content: "";
+    display: block;
+    height: 0.3rem;
+    width: 8rem;
+    background-color: #fed250;
+    margin: 0.8rem auto;
+}
+.para_contact{
+font-size: 18px;
+    color: rgb(255, 255, 255); 
+    text-align: center;
+ margin-top: -230px;
+
+
+}
+.cover{
+  width: 100%;
+  height: 180vh;
+
+  background-repeat: no-repeat;
+  background-color: white;
+  background-size: cover;
+
+}
+
+.contact_box{
+ 
+    position: absolute;
+  
+    -webkit-border-radius: 5px;
+    border-radius: 5px;   
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+ 
+}
+
+input[type=submit] {
+  
+  background-color: #fed250;
+    color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+   background-color: #e9b824;
+}
+
+.cont {
+  border-radius: 5px;
+ background-color: white;
+  padding: 0px 70px;
+  height: 470px;
+  width: 500px;
+  
+     border-radius: 5px;   
+     margin-top: 60px;
+    margin-left: 280px;
+}
+
+.contactus_heading_form{
+padding: 10px 0px;
+margin-top: -8PX;
+  font-size: 17px;
+}
+.contactus_submit{
+
+  width: 100%;
+  height: 50px;
+}
+
+.folow_us{
+  font-size: 19px;
+  padding: 0px 20px;
+  margin-top: 100px;
+  font-weight: 1000px;
+  margin-bottom: 5px;
+margin-left: 340px;
+}
+.social{
+    list-style-type: none;
+  display: flex;
+margin-left: 350px;
+}
+.social li{
+   width: 50px;
+  height: 50px;
+  border: 2px solid rgb(14, 13, 13);
+ 
+  color:  black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 6px;
+  margin-bottom: 15px;
+
+}
+.call_us{
+font-size: 19px;
+margin-top: 12px;
+padding: 0px 22px;
+margin-bottom: 14px;
+margin-left: 340px;
+
+}
+.whatsapp_image{
+    width: 450px;
+    height: 60px;
+    background-color:white;
+margin-left: 350px;
+
+}
+.whatsapp_image img{
+
+  margin-top: -100px;
+  margin-bottom: 9px;
+ 
+  width: 70px;
+  height: 70px;
+
+}
+.whatsapp_image .whats_number{
+
+  padding: 9px 75px;
+  font-size: 26px;
+}
+
+/* contact us message css all */
+.mesg_contact_us{
+width: 35%;
+height: 170px;
+   background-color:#b73439;
+margin-top: 170px;
+margin-left: 360px;
+border-radius: 8px;
+}
+.thank_u_mesg{
+  font-size: 26px;
+  padding:  23px 0px;
+ color: white;
+  text-align: center;
+  margin-left: 20px;
+  font-weight: bolder;
+}
+.thank_u_p{
+  font-size: 14px;
+ color: white;
+  text-align: center;
+}

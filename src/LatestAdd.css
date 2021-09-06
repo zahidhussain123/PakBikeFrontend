@@ -1,0 +1,170 @@
+.hngg{
+    width: 100%;
+    height: 28vh;
+    background-color: white;
+margin-top: -30px;
+}
+.latest_Top{
+
+    font-size: 28px;
+   padding: 9px 0px;
+color: #000000;
+  margin-left: 356px;
+}
+
+.latest_Top2{
+text-align: center;
+    font-size: 34px;
+   padding: 9px 0px;
+color: #d02f2f;
+  margin-left: -10px;
+  margin-top: -54px;
+}
+.latest_Top3{
+text-align: center;
+    font-size: 28px;
+   padding: 9px 0px;
+color: #000000;
+
+  margin-left: 215px;
+  margin-top: -51px;
+}
+.Lines_latestadd{
+text-align: center;
+color: #d02f2f;
+
+}
+.latestadd_back{
+
+    width: 100%;
+    height: 240vh;
+    background-color: white;
+
+}
+.hng{
+    background-color: white;
+
+  height: 184px;
+    width: 80%;
+    margin: 30px;
+    margin-left: 100px;
+  box-shadow: 5px 10px 8px #888888;
+   border: 1px solid rgb(199, 194, 194);
+}
+
+.des_latestAdd{
+
+  background-color:white;
+  height: 180px;
+    width: 50%;
+    margin-left: 200px;
+    max-width: 80%;
+    margin-top: -178px;
+  
+}
+ .latestadd_Heading{
+
+padding: 0px 0px;
+margin-left: 20px;
+padding: 10px 0px;
+font-size: 20px;
+}
+
+.latestadd_first_col1{
+    margin-top: 0px;
+    font-size: 11px;
+  margin-left: 20px;
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+}
+.latestadd_first_col2{
+    margin-top: 8px;
+    font-size: 11px;
+margin-left: 20px;
+ font-size: 14px;
+   color: rgb(120, 120, 120);
+}.latestadd_first_col3{
+   
+
+    font-size: 11px;
+  margin-left: 20px;
+   font-size: 14px;
+     color: rgb(120, 120, 120);
+}
+.brand_model_latset{
+     margin-top: 10px;
+}
+.latestadd_first_col4{
+ font-size: 16px;
+margin-top: -17px;
+    font-size: 14px;
+    /* padding: 0px 320px; */
+    margin-left: 70px;
+      color: rgb(120, 120, 120);
+}
+.latestadd_first_col5{
+    margin-top: 10px;
+ font-size: 16px;
+    font-size: 14px;
+  margin-left: 20px;
+    color: rgb(120, 120, 120);
+}
+.latestadd_time{
+
+}
+.img_latestadd_whats{
+
+    width: 199px;
+    height: 179px;
+    margin-top: 1px;
+}
+
+.latestadd_img{
+margin-left: 0px;
+   width: 199px;
+    height: 180px;
+    background-color: black;
+
+}
+/* 3rd post latestadd */
+.thirdbox_latestadd{
+width: 25.4%;
+    height: 180px;
+    background-color: white;
+    margin-top: -181px;
+    margin-left: 617px;
+
+}
+.price_latestadd{
+
+padding: 20px 30px;
+font-size: 22px;
+margin-bottom: -10px;
+}
+.condition_latestadd{
+padding: 4px 30px;
+font-size: 13px;
+  color: rgb(120, 120, 120);
+
+}
+/* .latestadd_view{
+padding: 6px 40px;
+border-radius: 5px;
+margin-left: 30px;
+margin-top: 12px;
+background-color:  #fed250;
+
+} */
+.addmore_latestadd{
+
+  background-color:#4b4d4f ;
+  color: white;
+  padding: 9px 19px;
+  font-size: 17px;
+margin-left: 450px;
+border-radius: 5px;
+}
+.latest_show:hover {
+  background-color: #fed250;
+  color: black;
+}

@@ -1,0 +1,159 @@
+.hngg{
+    width: 100%;
+    height: 28vh;
+    background-color: white;
+margin-top: -30px;
+margin-bottom: -37px;
+}
+/* .ddd_back{
+
+    width: 100%;
+    height: 155vh;
+    background-color: burlywood;
+    margin-top: 60px;
+} */
+.headingg{
+    margin-left: 50px;
+}
+.Lines_latestadd{
+text-align: center;
+color: #d02f2f;
+margin-top: -7px;
+}
+.small_box_Addd{
+width: 23%;
+height: 63.8vh;
+background-color:white;
+display: inline-block;
+
+float:none;
+ border: 1px solid rgb(191, 188, 188);
+/* box-shadow: 5px 10px 8px #969696; */
+margin-left: 17px;
+margin-top: 40px;
+
+}
+.image_Addd{
+    margin-left: -2px;
+    margin-top: -2px ;
+    width: 246px;
+    height: 140px;
+}
+.heading_addd{
+    font-size: 14px;
+    margin-top: 3px;
+    margin-left: 7px;
+}
+.line_addd{
+    margin-left: 1px;
+    margin-top: -1px;
+    margin-bottom: 15px;
+   color: rgb(191, 188, 188);
+}
+.price_addd_box{
+ height: 22px;
+   width: 90px;
+  background-color: #767676 ;
+  border-radius: 3px;
+   margin-left: 128px;
+  text-align: center;
+  padding: 6px 0px;
+  margin-top: 4px;
+  font-size: 10px;
+  color: rgb(241, 240, 240);
+}
+.price_adddd{
+   
+}
+.All_addd_heading{
+    color: black;
+    font-size: 10px;
+}
+.Brand_addd{
+    font-size: 10px;
+       color: rgb(111, 110, 110);
+       margin-top: -22px;
+        margin-left: 10px;
+}
+.modal_addd{
+    margin-top: 8px;
+    font-size: 10px;
+  margin-left: 10px;
+    color: rgb(111, 110, 110);
+}
+.location_addd{
+    font-size: 10px;
+     margin-left: 128px;
+    margin-top: -34px;
+     color: rgb(111, 110, 110);
+}
+.time_addd{
+      font-size: 7px;
+      margin-left: 128px;
+      margin-top: 8px;
+       color: rgb(111, 110, 110);
+}
+.kilometer_addd{
+    margin-top: 8px;
+     font-size: 10px;
+   margin-left: 10px;
+     color: rgb(111, 110, 110);
+}
+.condition_addd{
+    margin-top: 8px;
+     font-size: 10px;
+  margin-left: 10px;
+     color: rgb(111, 110, 110);
+}
+.type_addd{
+    margin-top: 8px;
+     font-size: 10px;
+    margin-left: 10px;
+     color: rgb(111, 110, 110);
+}
+.addmore_latestadd{
+
+  background-color:#4b4d4f ;
+  color: white;
+  padding: 9px 19px;
+  font-size: 17px;
+margin-left: 450px;
+border-radius: 5px;
+margin-top: 30px;
+}
+.latest_show:hover {
+  background-color: #fed250;
+  color: black;
+}
+.image_Addd:hover {
+  -ms-transform: scale(0.17); 
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9); 
+
+}
+
+/* view add */
+.latestadd_view{
+padding: 3.3px 40px;
+border-radius: 3px;
+margin-left: 45px;
+  border: 1px solid transparent;
+margin-top:4px;
+background-color:  #fed250;
+
+}
+.button5:hover {
+  background-color: #e7ad00;
+  color:white;
+}
+.load_more_button{
+margin-left: 468px;
+ padding: 5px 20px;
+ background-color:  #fed250;
+  color: black;
+    border: 1px solid transparent;
+    margin-bottom: 30px;
+}
+.load_more_button_div{
+  margin-top: 30px;
+}

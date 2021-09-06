@@ -1,0 +1,140 @@
+/* .back_postad_detail{
+   
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(160, 160, 160);
+    margin-top: 120px;
+} */
+.heading_records_postad_details{
+    width: 89%;
+    height: 12vh;
+   background-color: rgb(98, 96, 96);
+   color: white;
+    margin-top: 98px;
+    margin-left: 60px;
+    text-align: center;
+}
+.heading_records_setting{
+  margin-top: 40px;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+}
+.All_records_postad_details{
+    width: 89%;
+    height: 12vh;
+   background-color: rgb(98, 96, 96);
+   color: white;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+
+.title_ad_detail_post{
+    
+    font-size: 17px;
+    margin-left: 170px;
+   padding: 15px 0px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.model_ad_detail_post{
+       font-size: 17px;
+margin-top: -35px;
+     margin-left: 397px;
+}
+.brand_ad_detail_post{
+     font-size: 17px;
+       margin-left: 540px;
+       margin-top: -20px;
+}
+.price_ad_detail_post{
+    font-size: 17px;
+      margin-left: 660px;
+      margin-top: -20px;
+}
+.postad_detailpage{
+
+    width: 10%;
+  height: 8vh;
+  background-color: #fed250;
+  border-color: #fed250;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  font-size: 14px;
+  color: black;
+  margin-left: 820px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.postad_detailpage_div{
+    margin-top: -30px;
+}
+.button4:hover {
+  background-color: #44413a;
+  color: white;
+}
+.postad_post_ad_detail{
+   margin-top: -20px;
+}
+.user_add_show_box{
+width: 89%;
+height: 12vh;
+background-color: white;
+margin-top: 1px;
+  margin-left: 60px;
+    border: 1px solid rgb(175, 175, 175);
+}
+.postad_detail_img{
+
+    width: 8%;
+    height: 11vh;
+}
+.title_post_ad_detail{
+    font-size: 14px;
+margin-left: 120px;
+margin-top: -40px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.model_postAd_detail{
+    font-size: 14px;
+    margin-left: 400px;
+    margin-top: -20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brand_postAd_detail{
+     font-size: 14px;
+    margin-left: 540px;
+    margin-top: -18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.price_postAd_detail{
+font-size: 14px;
+    margin-left: 660px;
+    margin-top: -18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/* button edit and delete */
+.butt_delete{
+padding: 10px 11px;
+margin-left: 856px;
+background-color: rgb(255, 1, 1);
+border-radius: 3px;
+color: white;
+  border: 1px solid transparent;
+}
+.butt__update{
+padding: 10px 11px;
+margin-left: 785px;
+background-color: rgb(70, 70, 243);
+color: white;
+border-radius: 3px;
+  border: 1px solid transparent;
+}
+.butt_div_delete{
+margin-top: -27px;
+
+}
+.butt_div_update{
+
+margin-top: -38px;
+}

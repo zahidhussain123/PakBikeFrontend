@@ -1,0 +1,123 @@
+
+.rentpage_back{
+width: 100%;
+height: 190vh;
+ background-color:white;
+
+}
+.small_box_Rent{
+
+margin: 20px;
+width: 70%;
+height: 28vh;
+background-color: white;
+margin-left: 170px;
+/* border: 0.1px solid rgb(199, 194, 194); */
+ border: 1px solid rgb(191, 188, 188);
+
+}
+.img_rent_ad{
+    margin-top: -2px;
+    margin-left: -2px;
+    height: 136px;
+    width: 200px;
+}
+.img_rent_ad:hover {
+  -ms-transform: scale(0.17); 
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9); 
+
+}
+
+.heading_rentt{
+    margin-left: 220px;
+margin-top: -125px;
+}
+
+.Location_rentor{
+    color: rgb(148, 148, 148);
+    margin-left: 220px;
+      margin-left: 220px;
+      margin-top: 17px;
+      font-size: 14px;
+      font-size: 12px;
+}
+.brand_state_rent{
+    
+    color: rgb(148, 148, 148);
+margin-left: 220px;
+ font-size: 12px;
+ margin-top: 5px;
+
+
+}
+.rent_addd_all{
+    color: black;
+font-size: 12px;
+}
+.type_rent_ad{
+ color: rgb(148, 148, 148);
+margin-left: 220px;
+ font-size: 12px;
+ margin-top: 5px;
+
+}
+.model_rent_ad{
+    color: rgb(148, 148, 148);
+margin-left: 220px;
+ font-size: 12px;
+ margin-top: 5px;
+}
+.price_rent_ad{
+color: rgb(148, 148, 148);
+ font-size: 20px;
+ text-align: center;
+}
+.rent_addd_price{
+    color: black;
+ font-size: 15px;
+ text-align: center;
+padding: 20px 0px;
+margin-bottom: -12px;
+}
+.contact_buttn_ren{
+    padding: 6px 38px;
+border-radius: 2px;
+margin-left: 30px;
+margin-top: 16px;
+background-color:  #4d6c99;
+color: white;
+border: 20px;
+}
+.box_small_two{
+    width: 26%;
+    height: 26vh;
+    background-color: #d8e4f3;
+    margin-top: -99px;
+    margin-left: 560px;
+  border-radius: 2px;
+}
+.addmore_rentadd{
+    padding: 12px 48px;
+border-radius: 2px;
+margin-left: 430px;
+    background-color:  #4d6c99;
+color: white;
+border: 16px;
+}
+.addmore_rentadd_div{
+    margin-top: -56px;
+}
+.load_more_button_rent{
+margin-left: 468px;
+margin-top: 30px;
+ padding: 6px 20px;
+ background-color:  #fed250;
+  color: black;
+    border: 1px solid transparent;
+    margin-bottom: 30px;
+}
+.rent_but_5:hover {
+  background-color:  #00317b;
+  color:white;
+}

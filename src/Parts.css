@@ -1,0 +1,90 @@
+.Parts_back{
+width: 100%;
+height: 120vh;
+  background: url("/src/Postback.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.parts_header_name{
+    font-size: 17px;
+    margin-left: 74px;
+    margin-top: 90px;
+color:#ffa84a;
+text-decoration: double;
+text-transform: uppercase;
+text-decoration: dotted;
+
+}
+
+.Short_parts_box{
+    position: absolute;
+    margin-top: 10px;
+    left: 70px;
+    width: 935px;
+    height: 80px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    
+    background: #fff;
+    padding: 19px 24px;
+}
+
+.Parts_location{
+
+    height: 55px;
+    width: 210px;
+}
+.Parts_type{
+  height: 55px;
+  width: 210px;
+  
+
+
+}
+.Parts_location_box{
+
+  margin-top: -10px;
+}
+.Parts_type_box{
+margin-top: -78px;
+margin-left: 225px;
+}
+.Parts-brand_box{
+  margin-top: -78px;
+  margin-left: 450px;
+}
+.Parts_brand{
+
+  height: 55px;
+  width: 210px;
+}
+.Parts_search_box{
+  margin-top: -86px;
+  margin-left: 675px;
+
+}
+.Parts_search{
+margin-top: 15px;
+  width: 210px;
+    height: 55px;
+    background-color: #ffdc73;
+  font-size: 17px;
+}
+.Sell_access_but{
+  width: 13%;
+  height: 10vh;
+  margin-top: 120px;
+  border: 1px solid transparent;
+      background-color: #fed250;
+      border-radius: 3px;
+      margin-left: 80px;
+      font-size: 13px;
+    
+}
+.button_accesss:hover {
+
+   background-color:  #2f2e2e;
+  color: white;
+}

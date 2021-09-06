@@ -1,0 +1,103 @@
+.Footer_back{
+    width: 100%;
+    height: 80vh;
+    /* background-color:#23292f; */
+    background-color: #343a40;
+}
+.footer_logo{
+
+    font-size: 30px;
+    color: white;
+    margin-top: -280px;
+    margin-left: 100px;
+}
+.Followus_footer{
+margin-left: 705px;
+padding: 50px 0px;
+color: white;
+font-size: 22px;
+
+}
+.footer_link_social{
+    margin-top: -30px;
+margin-left: 700px;
+  display: inline-flex;
+}
+
+.footer_link_social li{
+     width: 45px;
+  height: 45px;
+  border: 2px solid white;
+  border-radius: 0%;
+  color:  #fed250;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  margin: 7px;
+
+
+}
+.Pakbike_title_foot{
+
+    color: white;
+    font-size: 22px;
+    margin-left: 460px;
+  margin-top: -110px;
+    
+}
+.pakbike_list_foot{
+text-decoration:none;
+    margin: 20px;
+    display:flex;
+    margin-left: 460px;
+    color: #c1c1c1;
+    font-size: 14px;
+ 
+}
+.forcontact_foot{
+    font-size: 22px;
+    color: white;
+margin-top: -145px;
+     margin-left: 710px;
+}
+.contact_foot{
+
+    font-size: 15px;
+    color:#c1c1c1;
+margin-top: 17px;
+     margin-left: 710px;
+    
+}
+.email_foot{
+
+    font-size: 15px;
+    color: #c1c1c1;
+/* margin-top:-100px; */
+margin-top: 12px;
+    margin-left: 710px;
+}
+
+.Foot_small_box_End{
+margin-top: 276px;
+    width: 100%;
+    height: 16vh;
+    background-color: #23292f;
+}
+.copyright_foot{
+   padding: 18px 0px;
+font-size: 14px;
+margin-left: 380px;
+color: white;
+}
+.term_footer{
+font-size: 14px;
+text-decoration:none;
+display: flex;
+color: white;
+margin-left: 440px;
+margin-top: -11px;
+}
+.blink_word:hover{
+    color: #fed250;
+}

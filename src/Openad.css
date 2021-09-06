@@ -1,0 +1,211 @@
+.back_openad_back {
+  margin-top: 80px;
+  width: 100%;
+  height: 187vh;
+  background-color: white;
+}
+.back_left_add {
+  
+  width: 120vh;
+  height: 144vh;
+  margin-left: 60px;
+  margin-top: 130px;
+  background-color: white;
+  /* box-shadow: 5px 10px 8px #969696; */
+    border: 1px solid rgb(191, 188, 188);
+}
+.title_openad {
+  font-size: 26px;
+  padding: 12px 0px;
+  margin-left: 20px;
+  color: #233d7b;
+  font-family: inherit;
+  font-weight: 700;
+  margin-bottom: -5px;
+}
+.loc_top_openad {
+  margin-left: 20px;
+  font-size: 14px;
+  color: rgb(106, 106, 106);
+}
+.width_slider_box {
+  width: 119vh;
+  height: 80vh;
+}
+.back_right_add {
+  width: 72vh;
+  height: 140vh;
+  margin-left: 665px;
+  margin-top: -708px;
+  background-color: white;
+  border: 1px solid rgb(191, 188, 188);
+}
+
+.nature {
+  width: 110%;
+  height: 20vh;
+}
+.each-slide {
+  width: 166%;
+  height: 67vh;
+  margin-top: 10px;
+
+  /* margin-right: 100px; */
+}
+.img_slider_control {
+  height: 60vh;
+  width: 60%;
+}
+.slide-container {
+  padding: 0px 0px;
+  margin-left: -884px;
+}
+
+/* des box */
+.box_des_bottom_slider {
+  width: 90%;
+  height: 60vh;
+  margin-left: 30px;
+  margin-top: -60px;
+  background-color: white;
+  border: 1px solid rgb(184, 183, 183);
+  border-radius: 5px;
+}
+.all_heading_openad {
+  font-size: 16px;
+  padding: 20px 0px;
+  color: black;
+}
+.des_openad {
+  margin-left: 40px;
+  margin-bottom: 10px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.brand_openad {
+  padding: 10px 0px;
+  margin-left: 40px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.condition_openad {
+  margin-left: 40px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.model_openad {
+  margin-left: 40px;
+  margin-left: 300px;
+  margin-top: -23px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.millage_openad {
+  margin-top: -45px;
+  margin-left: 40px;
+  margin-left: 300px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.loc_openad {
+  margin-left: 40px;
+  margin-top: 40px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+.date_openad {
+  margin-top: -20px;
+  margin-left: 40px;
+  margin-left: 300px;
+  color: rgb(62, 61, 61);
+  font-size: 13px;
+}
+/* right box material */
+.box_price_openadd {
+  width: 100%;
+  height: 17vh;
+  background-color: rgb(123, 123, 123);
+}
+.price_openad {
+  text-align: center;
+  padding: 20px 0px;
+  font-size: 33px;
+  color: rgb(251, 251, 251);
+  font-family: inherit;
+  font-weight: 700;
+}
+.Rs_heading_openad {
+  font-size: 30px;
+
+  color: #fed250;
+}
+.button_phone_openad {
+  /* padding: 10px 0px; */
+
+  font-size: 24px;
+  margin-left: -13px;
+  margin-top: -10px;
+}
+.contact_headind_openad {
+  margin-top: 0px;
+  font-size: 12px;
+}
+.butt_phone_button {
+  width: 65%;
+  height: 14vh;
+  margin-left: 60px;
+  margin-top: 20px;
+  background-color: #fed250;
+  border-color: #fed250;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: black;
+}
+.button4:hover {
+  background-color: #e9b824;
+  color: white;
+}
+.phone_icon_openad {
+  font-size: 34px;
+}
+.img_seller_postad {
+  width: 100%;
+  height: 70vh;
+  margin-top: 15px;
+}
+.post_ad_openad {
+  width: 65%;
+  height: 12vh;
+  background-color: #fed250;
+  border-color: #fed250;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  font-size: 20px;
+  color: black;
+  margin-left: 30px;
+}
+.button3:hover {
+  background-color: #e9b824;
+  color: white;
+}
+.postad_openad {
+  padding: 40px 0px;
+  margin-left: 53px;
+}
+
+/* similar add last */
+.Similarad_openad {
+  width: 100%;
+  height: 13vh;
+
+  margin-top: 110px;
+}
+.similar_ad_text {
+  font-size: 30px;
+
+  padding: 12px 40px;
+  color: #233d7b;
+  font-family: inherit;
+  font-weight: 700;
+  border: 1px solid rgb(182, 182, 182);
+}

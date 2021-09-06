@@ -1,0 +1,105 @@
+.small_uper_box_Access_page{
+    width: 100%;
+    height: 33vh;
+    margin-top: 60px;
+    background-color: rgb(150, 150, 113);
+     background: url("/src/images/Accessoriespagetop.jpg"); 
+}
+.free_ad_access_but{
+    margin-top: 50px;
+    width: 15%;
+    height: 8.5vh;
+    margin-left: 800px;
+}
+.access_page_back{
+
+    width: 100%;
+    height: 150vh;
+    background-color:white;
+     /* background: url("/src/images/Accessoriespageback.jpg"); */
+}
+.access_page_short_Box{
+width: 85%;
+height: 143vh;
+background-color: white;
+margin-left: 160px;
+fill-opacity: 1.0; 
+margin-top: 20px;
+}
+/* .access_page_short_Box{
+ opacity: 0.5;
+} */
+.access_page_short2_Box{
+    width: 20%;
+    height: 38.5vh;
+    background-color:white;
+    display: inline-block;
+margin-top: 20px;
+    margin: 6px;
+     border: 1px solid rgb(191, 188, 188);
+}
+.image_Access_page{
+    width: 177px;
+    height: 95px;
+}
+.access_page_line{
+     margin-top: -17.5px;
+}
+.name_access_page{
+    margin-top: 5px;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.Price_access_page{
+      font-size: 14px;
+      color: red;
+      text-align:center ;
+      margin-top: 7px;
+}
+.All_Access_heading{
+font-size: 16px;
+color: black;
+      
+}
+.image_Access_page:hover {
+  -ms-transform: scale(0.17); /* IE 9 */
+  -webkit-transform: scale(0.9); /* Safari 3-8 */
+  transform: scale(0.9); 
+color: #fed250;
+}
+.view_detail_butt{
+    width: 60%;
+    height: 4.5vh;
+    margin-left: 33px;
+    margin-top: 7px;
+    background-color: #fed250;
+    border: 1px solid transparent;
+  border-radius: 3px;
+}
+/* show more */
+.showmore_accessories_butt_div{
+  margin-top: -90px;
+}
+.showmore_accessories_butt{
+    margin-left: 489px;
+    width: 14%;
+    height: 6.5vh;
+  
+}
+
+/* load more */
+.loadmore_Accesories_ad_div{
+    margin-top: -50px;
+
+}
+.loadmore_Accesories_ad{
+
+    margin-left: 483px;
+    width: 12%;
+    height: 6.5vh;
+   background-color: #fed250;
+   border: 1px solid transparent;
+   border-radius: 3px;
+   margin-bottom: 30px;
+}
